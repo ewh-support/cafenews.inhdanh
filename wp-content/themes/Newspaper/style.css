@@ -435,7 +435,7 @@ th {
 img {
   max-width: 100%;
   width: auto\9;
-  height: auto;
+  /* height: auto; */
 }
 .td-main-content-wrap,
 .td-category-grid {
